@@ -5,7 +5,7 @@ import { Link } from "gatsby"
 const NewsPage = () => {
   return (
     <main>
-        <Link to="/">Till startsidan</Link>
+        <Link to="/">Till startsidan 🎶🎶🌍</Link>
       <h1>Nyhetssidan</h1>
 
       
