@@ -6,7 +6,7 @@ const SingleBlogPostPage = ({ data }) => {
 
     return (
         <main>
-            <Link to="/news/">Till nyhetssidan</Link>
+            <Link to="/news/">Till nyhetssidan 🎶🎶🎶</Link>
             <h1>{post.title}</h1>
             <p>Publicerad: {post.publishDate}</p>
         </main>
